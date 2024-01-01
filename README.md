@@ -9,7 +9,7 @@ This is a simple implementation of the popular 2048 game in Python. The game inv
 ## Features
 
 - Classic 2048 gameplay.
-- Responsive keyboard controls (W, A, S, D).
+- Responsive keyboard controls (Arrow Up, Arrow Left, Arrow Down, Arrow Right).
 - Colorful and user-friendly interface.
 - Score tracking.
 
@@ -31,7 +31,7 @@ This is a simple implementation of the popular 2048 game in Python. The game inv
 
 ## How to Play
 
- - Use the arrow keys (W, A, S, D) to move the tiles.
+ - Use the arrow keys (Arrow Up, Arrow Left, Arrow Down, Arrow Right) to move the tiles.
  - Combine identical tiles to create a tile with the next power of 2.
  - Aim to reach the tile with the number 2048.
 
